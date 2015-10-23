@@ -5,7 +5,7 @@
   "bin": {
     "svg2favicons": "lib/index.js"
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adaptdk/svg2favicons.git"
