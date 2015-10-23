@@ -1,6 +1,6 @@
 {
   "name": "svg2favicons",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tool to generate favicons from using an SVG file as source.",
   "bin": {
     "svg2favicons": "lib/index.js"
